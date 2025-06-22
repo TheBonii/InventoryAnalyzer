@@ -1,0 +1,2 @@
+TotalProducts,TotalValue,MostExpensiveProduct,CheapestProduct
+282,39716.00,LG-XG-001,MS-WL-S03
